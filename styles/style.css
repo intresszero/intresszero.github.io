@@ -502,21 +502,6 @@ text-decoration: underline;
 	margin-bottom: 1%;
 }
 
-/* styling the clock */
-
-#clock_display {
-	position: absolute;
-	top: 5px;
-	right: 50px;
-}
-
-.clock {
-/* color: #17D4FE; */
-color: white;
-font-size: 25px;
-letter-spacing: 7px;
-font-family: "Impact";
-}
 
 /* style for social media buttons */
 
@@ -536,11 +521,6 @@ a.fa:hover {
 
 a.fa-facebook {
   background: #3B5998;
-  color: white;
-}
-
-a.fa-twitter {
-  background: #55ACEE;
   color: white;
 }
 
@@ -1121,10 +1101,7 @@ a.fa-facebook:active, a.fa-twitter:active, a.fa-instagram:active, a.fa-pinterest
 	.ic {
 		display: none;
 	}
-	
-	.clock {
-		display: none;
-	}
+
 	
 	/* reformatting the zodiac table for smaller screens */
 	
